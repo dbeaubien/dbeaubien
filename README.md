@@ -11,6 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Based off this:
+  https://github.com/anuraghazra/github-readme-stats
 -->
 
 [![Github](https://img.shields.io/github/followers/dbeaubien?label=Followers&style=social)](https://github.com/dbeaubien)
