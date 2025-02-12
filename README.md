@@ -19,4 +19,6 @@ Based off this:
 [![Github](https://img.shields.io/github/followers/dbeaubien?label=Followers&style=social)](https://github.com/dbeaubien)
 ![](https://visitor-badge.laobi.icu/badge?page_id=dbeaubien.dbeaubien)
 
+GitHub Stats on public repos:
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbeaubien&theme=transparent&langs_count=3&hide_title=true&hide_border=true) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dbeaubien&theme=transparent&show_icons=true&count_private=true&hide_title=true&hide_border=true)
